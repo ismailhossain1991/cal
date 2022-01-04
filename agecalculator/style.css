@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    text-align: center;
+    color: #fff;
+    background-color: tomato;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+p{
+    font-size: 30px;
+    
+}
